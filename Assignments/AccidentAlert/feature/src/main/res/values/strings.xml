@@ -1,0 +1,13 @@
+<resources>
+    <string name="init_switch">ON/OFF Alert</string>
+    <string name="request_on">tap to enable alert system</string>
+    <string name="request_off">tap to disable alert system</string>
+    <string name="manage_contacts">Manage contacts</string>
+    <string name="distress_number">Distress number</string>
+    <string name="about">About</string>
+    <string name="start_screen">Home</string>
+    <string name="welcome">This view is intentionally left blank.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/start_screen"
+            android:icon="@drawable/ic_menu_start_screen"
+            android:title="@string/start_screen" />
+        <item
+            android:id="@+id/manage_contacts"
+            android:icon="@drawable/ic_menu_manage_contacts"
+            android:title="@string/manage_contacts" />
+        <item
+            android:id="@+id/distress_number"
+            android:icon="@drawable/ic_menu_emergency"
+            android:title="@string/distress_number" />
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/ic_menu_info"
+            android:title="@string/about" />
+    </group>
+</menu>
